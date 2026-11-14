@@ -54,6 +54,7 @@ AI_Aim_data      настройки (создаётся сама, сохраня
 - Windows 10/11 x64. Для готового EXE ничего доустанавливать не нужно.
 - Для сборки из исходников: Python 3.9+, `pip`, пакеты `pyinstaller`, `mss`,
   `onnxruntime`, `numpy`, `pillow`.
+  И на [чай](https://pay.cloudtips.ru/p/aefce644)
 
 ## Использование
 
